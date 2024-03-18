@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/../include/cal.h
+
+/home/afison/Desktop/Chat/cmaketest/src/cal.cpp
+cal.h
+/home/afison/Desktop/Chat/cmaketest/src/cal.h
+

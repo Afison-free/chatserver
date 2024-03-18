@@ -1,0 +1,8 @@
+/home/afison/Desktop/Chat/cmaketest/build/CMakeFiles/rebuild_cache.dir
+/home/afison/Desktop/Chat/cmaketest/build/CMakeFiles/edit_cache.dir
+/home/afison/Desktop/Chat/cmaketest/build/src/CMakeFiles/rebuild_cache.dir
+/home/afison/Desktop/Chat/cmaketest/build/src/CMakeFiles/cal.dir
+/home/afison/Desktop/Chat/cmaketest/build/src/CMakeFiles/edit_cache.dir
+/home/afison/Desktop/Chat/cmaketest/build/test/CMakeFiles/rebuild_cache.dir
+/home/afison/Desktop/Chat/cmaketest/build/test/CMakeFiles/main.dir
+/home/afison/Desktop/Chat/cmaketest/build/test/CMakeFiles/edit_cache.dir

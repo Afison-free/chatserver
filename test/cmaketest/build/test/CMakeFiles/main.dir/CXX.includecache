@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../test/../include/cal.h
+
+/home/afison/Desktop/Chat/cmaketest/test/main.cpp
+iostream
+-
+cal.h
+/home/afison/Desktop/Chat/cmaketest/test/cal.h
+
